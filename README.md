@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there
+저는 충남대 컴퓨터공학과에 재학중인 학부생입니다 ㅎㅎ
+아직 이도저도 모르는 실력이지만 이것저것 배우며 알아가고 싶습니다.
 
 <!--
 **jwPark6/jwPark6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
