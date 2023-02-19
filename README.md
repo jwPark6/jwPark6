@@ -1,6 +1,7 @@
 ### Hi there
 
 ✉ jiwoo.park2892@gmail.com
+Velog : https://velog.io/@jwpark6
 
 <!--
 **jwPark6/jwPark6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
